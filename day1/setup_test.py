@@ -1,0 +1,1 @@
+print("Security Lab Initialization")
